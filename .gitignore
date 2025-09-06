@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Excel/CSV outputs
+*.xlsx
+*.xls
+*.csv
+
+# Logs
+*.log
+
+# Selenium WebDriver binaries (if downloaded here)
+chromedriver.exe
+geckodriver.exe
